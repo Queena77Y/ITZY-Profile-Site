@@ -1,2 +1,4 @@
 # ITZY-Profile-Site
-An ITZY (Kpop Girl group) profile site made with HTML and CSS.
+A profile website for ITZY (KPOP girl group by JYP Entertainment).
+
+Stack: HTML5, CSS3, Responsive Design.
